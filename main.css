@@ -33,22 +33,6 @@ body{
     margin-bottom: 2rem;
     color:/* #fff*/ #2a477d;;
   }
-  /*Major Causes Section*/
-  .page-section h2.section-heading {
-    font-size: 2.5rem;
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font-family: cursive;
-    color: #9b9d2f;
-  }
-  .page-section h3.section-subheading {
-    font-size: 1rem;
-    font-weight: 400;
-    font-style: italic;
-    margin-bottom: 4rem;
-    color: rgb(216, 146, 81);
-  }
-  /*End of Major Causes Section */
   /*Project Section */
   #project .project-item {
     max-width: 25rem;
